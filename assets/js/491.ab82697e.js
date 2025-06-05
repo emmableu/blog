@@ -1,0 +1,1 @@
+(window.webpackJsonp=window.webpackJsonp||[]).push([[491],{856:function(t,n,o){"use strict";o.r(n);var s=o(8),r=Object(s.a)({},(function(){var t=this._self._c;return t("ContentSlotsDistributor",{attrs:{"slot-key":this.$parent.slotKey}},[t("p",[this._v("tags: [Array, Two Pointers, Binary Search, Stack, Monotonic Stack]")])])}),[],!1,null,null,null);n.default=r.exports}}]);
